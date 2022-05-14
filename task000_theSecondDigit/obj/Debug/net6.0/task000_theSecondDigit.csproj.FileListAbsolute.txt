@@ -1,0 +1,15 @@
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/bin/Debug/net6.0/task000_theSecondDigit
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/bin/Debug/net6.0/task000_theSecondDigit.deps.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/bin/Debug/net6.0/task000_theSecondDigit.runtimeconfig.json
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/bin/Debug/net6.0/task000_theSecondDigit.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/bin/Debug/net6.0/task000_theSecondDigit.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/obj/Debug/net6.0/task000_theSecondDigit.csproj.AssemblyReference.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/obj/Debug/net6.0/task000_theSecondDigit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/obj/Debug/net6.0/task000_theSecondDigit.AssemblyInfoInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/obj/Debug/net6.0/task000_theSecondDigit.AssemblyInfo.cs
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/obj/Debug/net6.0/task000_theSecondDigit.csproj.CoreCompileInputs.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/obj/Debug/net6.0/task000_theSecondDigit.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/obj/Debug/net6.0/refint/task000_theSecondDigit.dll
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/obj/Debug/net6.0/task000_theSecondDigit.pdb
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/obj/Debug/net6.0/task000_theSecondDigit.genruntimeconfig.cache
+/Users/maksimstoma/Documents/geek brains/homework/homework_1/task000_theSecondDigit/obj/Debug/net6.0/ref/task000_theSecondDigit.dll
