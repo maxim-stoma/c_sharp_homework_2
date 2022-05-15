@@ -7,5 +7,11 @@ if (num < 100)
 }
 else
 {
-    
+    while (num > 1000)
+    {
+        num = num / 10;
+    }
+    int mult = num % 10;
+    Console.WriteLine($"Третья цифра введённого числа {mult}");
 }
+Console.ReadLine();
