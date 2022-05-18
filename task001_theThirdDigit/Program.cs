@@ -1,5 +1,7 @@
 ﻿Console.Write("Введите число: ");
 int num = Convert.ToInt32(Console.ReadLine());
+int div = num;
+int mult;
 
 if (num < 100)
 {
@@ -7,11 +9,9 @@ if (num < 100)
 }
 else
 {
-    while (num > 1000)
-    {
-        num = num / 10;
-    }
-    int mult = num % 10;
+    for (num = div; div > 1000; div = div / 10);
+
+    mult = div % 10;
     Console.WriteLine($"Третья цифра введённого числа {mult}");
 }
 Console.ReadLine();
